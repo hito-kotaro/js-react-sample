@@ -36,3 +36,9 @@ $ yarn start
 - singleQuote: true
 - trailingComma: all
   and Default
+
+## VSCode Settings
+
+- eslint.format.enable: false
+- editor.formatOnSave: true
+- editor.defaultFormatter: esbenp.prettier-vscode
