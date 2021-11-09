@@ -5,7 +5,7 @@ react のプロジェクトに ESLint と Prettier を導入したサンプル
 ## Usage
 
 ```
-$ git clone
+$ git clone git@github.com:hito-kotaro/js-react-sample.git
 $ yarn
 $ yarn start
 ```
