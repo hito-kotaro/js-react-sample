@@ -3,8 +3,6 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  // eslint-disable-next-line no-console
-  console.log('test');
   return (
     <div className="App">
       <header className="App-header">
